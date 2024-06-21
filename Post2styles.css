@@ -1,0 +1,10 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 18px;
+    margin: 0;
+    padding: 0;
+    background-color: rgb(246, 185, 236);
+}
+li {
+    color: rgb(72, 66, 71);
+}
